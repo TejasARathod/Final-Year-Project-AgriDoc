@@ -120,5 +120,10 @@ Test Images:
 To deploy this project follow the above instructions
 
 
+## Special thanks to
+
+ - [Digi-Key](https://www.digikey.in/en/maker/projects/getting-started-with-the-nvidia-jetson-nano-part-1-setup/2f497bb88c6f4688b9774a81b80b8ec2)
+
+
  
 
