@@ -125,5 +125,9 @@ To deploy this project follow the above instructions
  - [Digi-Key](https://www.digikey.in/en/maker/projects/getting-started-with-the-nvidia-jetson-nano-part-1-setup/2f497bb88c6f4688b9774a81b80b8ec2)
 
 
+## My Trained Model
+
+[You can access the trained model and it's other required materials over here](https://drive.google.com/drive/folders/1iq6X927nZDNZ7IKQWT7gHgY7GeNaNtfF?usp=sharing)
+
  
 
