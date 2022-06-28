@@ -4,6 +4,15 @@
 Our objective is to classify diseases and weeds in real time thus to start off with we want to detect simple plants using pre trained models in real time. First part would be to classify downloaded images then move on to real time using camera feed.
 
 
+## Index
+
+- Workflow
+- Tech Stack
+- Deployement
+- Acknowledgement
+- My Trained Model
+
+
 ## WorkFlow
 
 **Setting up the Jetson**
