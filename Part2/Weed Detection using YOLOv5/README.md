@@ -36,6 +36,18 @@ While working on this project I solved a few errors which might be helpful to ot
 - The code in the tutorial notebook for training the model needs a slight change; instead of just python it should be python3
 
         !python3 train.py --img 640 --batch 12 --epochs 50 --data coco128.yaml --weights yolov5s.pt --cache
+        
+- Increasing the quality of dataset: The dataset I gathered of some weeds were of really low quality and upscaling resolution of images online has limitations , thus with the help of ESRGAN (Enhanced SRGAN) I upscaled my images pretty quick thanks to [@Xintao](https://github.com/xinntao/ESRGAN)
+
+**Before:**
+
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/2c8d5e4abc9ea78e5de76fc5d089bcad1176305c/Part2/Weed%20Detection%20using%20YOLOv5/Before.png)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/2c8d5e4abc9ea78e5de76fc5d089bcad1176305c/Part2/Weed%20Detection%20using%20YOLOv5/BeforeSpec.png)
+
+**After:**
+
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/2c8d5e4abc9ea78e5de76fc5d089bcad1176305c/Part2/Weed%20Detection%20using%20YOLOv5/After.png)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/2c8d5e4abc9ea78e5de76fc5d089bcad1176305c/Part2/Weed%20Detection%20using%20YOLOv5/Afterspecs.png)
 ## Tech Stack
 
 **Language Used:** Python
