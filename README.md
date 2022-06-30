@@ -44,3 +44,12 @@ This project is to be carried out over a span of 1 year thus it was divided into
 
 [Apache License 2.0](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/ea826e4d1747ed8ff487fcc5d36ea152eb0ef9c1/LICENSE)
 
+## Project Preview
+
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/3.png)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/5.png)
+
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/4.png)
+
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/cb3d6df900a3bbcb3dbdaf7cfb59034b29bc1122/Part1/2.png)
+
