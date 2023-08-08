@@ -30,11 +30,11 @@ This project was carried out over a span of 1 year thus it was divided into two 
 ![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/10c4be02c0b32f066528703e8d1ec63eb10ff873/BN.jpg)
 ![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/1e977d42e238158c4595b20dac16cbe95d67d0b6/VL.jpg)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/10c4be02c0b32f066528703e8d1ec63eb10ff873/Diff.Compartments.jpg)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/db848506014dd3e917e2688711b461b9db541e3d/Diff.Compartments.jpg)
 ![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/10c4be02c0b32f066528703e8d1ec63eb10ff873/Robot.png)
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/10c4be02c0b32f066528703e8d1ec63eb10ff873/Final-Design.png)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/db848506014dd3e917e2688711b461b9db541e3d/Final-Design.png)
 
-![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/10c4be02c0b32f066528703e8d1ec63eb10ff873/Final-Robot.png)
+![](https://github.com/TejasARathod/Final-Year-Project-AgriDoc-Agricultural-Robot-/blob/db848506014dd3e917e2688711b461b9db541e3d/Final-Robot.jpg)
 
 **For Detailed Documentation Follow the link:**
 
